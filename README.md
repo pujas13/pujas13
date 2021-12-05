@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Puja Sen.
-- 👀 I’m a data and cloud enthusiast.
-- 🌱 I’m currently learning cloud architectures and data transformations.
-- 💞️ I’m looking to collaborate on data engineering projects
-- 📫 Mail me at - ps.senpuja@gmail.com
+- Hi, I’m Puja Sen.
+- I’m a data and cloud enthusiast.
+- I’m currently learning cloud architectures and data transformations.
+- I’m looking to collaborate on data engineering projects
+- Mail me at - ps.senpuja@gmail.com
 
 
 
